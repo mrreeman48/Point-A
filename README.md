@@ -1,2 +1,0 @@
-# Point-A
-Starting point
